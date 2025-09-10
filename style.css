@@ -1,0 +1,25 @@
+img{
+max-width: 100%;
+}
+
+body{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    background-color: bisque;
+    max-width: 1000px;
+    margin: auto;
+    width: 80%;
+}
+
+a{
+color: brown;
+text-decoration: none;
+border: 2px solid brown;
+padding: 10px;
+background-color: chocolate;
+}
+
+a:hover{
+    color:white
+}
